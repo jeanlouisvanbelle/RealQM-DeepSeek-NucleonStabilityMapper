@@ -1,7 +1,5 @@
 # RealQM-DeepSeek Nucleon Stability Mapper
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-
 ## Overview
 
 This repository contains the code for running a full stability scan across the nuclide chart (Z = 1 to 20, N = Z to 3Z) using the RealQM Nuclear Engine V19.
