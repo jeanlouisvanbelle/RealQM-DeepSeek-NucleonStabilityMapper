@@ -7,7 +7,7 @@ This repository contains the code for running a full stability scan across the n
 
 The engine computes the binding energy (ΔE) for each nuclide from first principles—using only electromagnetism, geometry, and phase coherence. No strong force, no fitted nuclear potentials. Just Maxwell's equations and the variational principle.
 
-The V3 engine has been calibrated on multiple nuclei (^2H, ^4He, ^12C) to find parameters that work across the nuclide chart. The calibrated parameters are:
+The V3 engine has been calibrated on multiple nuclei (2H, 4He, 12C) to find parameters that work across the nuclide chart. The calibrated parameters are:
 
 Parameter	Value
 alpha_scale	0.850
@@ -17,7 +17,7 @@ neutron_E0	0.5
 Key Features
 First-principles physics: No strong force, no fitted potentials—just electromagnetism and geometry.
 
-Multi-nucleus calibration: Calibrated on ^2H, ^4He, and ^12C simultaneously.
+Multi-nucleus calibration: Calibrated on 2H, 4He, and 12C simultaneously.
 
 Dynamic bounds: Adaptive search space prevents artificial confinement of nucleons.
 
